@@ -1,6 +1,7 @@
 # Nombre de la tarea
 
 Desarrollada por @usuario_de_github_del_alumno
+
 Fecha: Fecha de entrega de la tarea
 
 ### Descripción de la tarea
